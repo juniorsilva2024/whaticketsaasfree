@@ -1,7 +1,5 @@
 🚨 Atenção:
 
-Para adquirir a versão mais atualizada 6.0.0 e ter acesso a outras versões que são vendidas no mercado como bônus, acesse uma das opções de checkout a seguir:
-
 Para adquirir suporte a versão mais atualizada 6.0.0 entre em contato:</br>
 
 CONTATO/WHATSAPP (73) 9 9148-7222</br>
