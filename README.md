@@ -118,7 +118,7 @@ Evite latencia muito baixa e muito alta (servidor local e servidores na Europa)<
 
 
 Confira no pdf aqui como gerar um webhook de retorno automático de pagamento da Efi.</br>
-https://drive.google.com/file/d/1rdAr6f13VKQWomo68I06JK6n2PeK0mhZ/view?usp=drive_link
+
 
 Personalizações:</br>
 As instruções para alteração de cores, logo, icones e nome da instalação estão no arquivo de instruções.
