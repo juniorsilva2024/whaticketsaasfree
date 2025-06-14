@@ -2,9 +2,6 @@
 
 Para adquirir a versão mais atualizada 6.0.0 e ter acesso a outras versões que são vendidas no mercado como bônus, acesse uma das opções de checkout a seguir:
 
-Códigos fonte + instalação Grátis:</br>
-DFG: https: https://www.dfg.com.br/pt/outros/whaticket-gold-com-saas-e-kanban-n8n-typ-bot-ch4tgpt-943412403 </br>
-</br>
 Para adquirir suporte a versão mais atualizada 6.0.0 entre em contato:</br>
 
 CONTATO/WHATSAPP (73) 9 9148-7222</br>
