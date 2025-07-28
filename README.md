@@ -30,8 +30,6 @@ CONTATO/WHATSAPP (73) 9 9148-7222</br>
 ✅ Novo layout das telas de login e signup</br>
 ✅ Correção de vazamento no WebSocket</br>
 
-| ![Imagem 1](img/01_Captura_de_tela_2024-08-26_120517.png) | ![Imagem 2](img/04_Captura_de_tela_2025-04-27_054329.png) | ![Imagem 3](img/05_Captura_de_tela_2025-04-27_054416.png) |
-|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | ![Imagem 4](img/06_Captura_de_tela_2025-04-27_054445.png) | ![Imagem 5](img/10_Captura_de_tela_2025-04-27_054726.png) |                                                           |
 
 
