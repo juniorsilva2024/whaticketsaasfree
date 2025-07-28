@@ -12,6 +12,8 @@ CONTATO/WHATSAPP (73) 9 9148-7222</br>
 🤖 TypeBot</br>
 💬 ChatGPT</br>
 
+![Dashboard Whaticket SAAS V6](https://github.com/juniorsilva2024/whaticketsaasfree/blob/main/img/05%20Captura%20de%20tela%202025-04-27%20054416.png?raw=true)
+
 🚀 Versão 6.0.0 - 16/04/2025 - Versão paga</br>
 ✅ Correções no Darkmode (em mensagens)</br>
 ✅ Botão Light/Dark movido (agora localizado no perfil)</br>
