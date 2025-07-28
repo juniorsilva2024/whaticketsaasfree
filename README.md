@@ -30,7 +30,8 @@ CONTATO/WHATSAPP (73) 9 9148-7222</br>
 ✅ Novo layout das telas de login e signup</br>
 ✅ Correção de vazamento no WebSocket</br>
 
-![Imagem - Tela de login]([img/06_Captura_de_tela_2025-04-27_054445.png](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/01%20Captura%20de%20tela%202024-08-26%20120517.png)) ![Imagem - Atendimentos/Tickets](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/04%20Captura%20de%20tela%202025-04-27%20054329.png)
+![Imagem - Tela de login](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/01%20Captura%20de%20tela%202024-08-26%20120517.png) 
+![Imagem - Atendimentos/Tickets](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/04%20Captura%20de%20tela%202025-04-27%20054329.png)
 
 ---
 
