@@ -6,13 +6,17 @@ CONTATO/WHATSAPP (73) 9 9148-7222</br>
 
 # WhaTicket Versão Saas com Módulo Kanban, Modo Noturno e as seguintes integrações:</br>
 
-🗣️ DialogFlow</br>
-🔄 N8N</br>
-🌐 WebHooks</br>
-🤖 TypeBot</br>
-💬 ChatGPT</br>
-
-![Dashboard Whaticket SAAS V6](https://github.com/juniorsilva2024/whaticketsaasfree/blob/main/img/05%20Captura%20de%20tela%202025-04-27%20054416.png?raw=true)
+ 🗣️ DialogFlow</br>
+ 🔄 N8N</br>
+ 🌐 WebHooks</br>
+ 💬 ChatGPT</br>
+ 🤖 TypeBot(ferramenta para criar chatbots interativos - RECOMENDO)</br>
+ 
+## Capturas de Tela Whaticket SAAS V6:
+| ![Captura 1](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/01%20Captura%20de%20tela%202024-08-26%20120517.png) | ![Captura 2](https://github.com/juniorsilva2024/whaticketsaasfree/blob/main/img/04%20Captura%20de%20tela%202025-04-27%20054329.png?raw=true) |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| ![Captura 3](https://github.com/juniorsilva2024/whaticketsaasfree/blob/main/img/05%20Captura%20de%20tela%202025-04-27%20054416.png?raw=true) | ![Captura 4](https://github.com/juniorsilva2024/whaticketsaasfree/blob/main/img/06%20Captura%20de%20tela%202025-04-27%20054445.png?raw=true) 
+</br>
 
 🚀 Versão 6.0.0 - 16/04/2025 - Versão paga</br>
 ✅ Correções no Darkmode (em mensagens)</br>
@@ -30,9 +34,7 @@ CONTATO/WHATSAPP (73) 9 9148-7222</br>
 ✅ Novo layout das telas de login e signup</br>
 ✅ Correção de vazamento no WebSocket</br>
 
-![Imagem - Tela de login](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/01%20Captura%20de%20tela%202024-08-26%20120517.png) 
-![Imagem - Atendimentos/Tickets](https://raw.githubusercontent.com/juniorsilva2024/whaticketsaasfree/refs/heads/main/img/04%20Captura%20de%20tela%202025-04-27%20054329.png)
-
+</br>
 ---
 
 Sugestão de VPS:
